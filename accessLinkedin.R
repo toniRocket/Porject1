@@ -13,7 +13,7 @@ in.auth <- inOAuth()  #if application access, pass args: "your_app_name", "your_
 my.connections <- getMyConnections(in.auth)
 
 ## Search some companies
-search.comp <- searchCompanies(in.auth, keywords = "Rocket")
+search.comp <- searchCompanies(in.auth, keywords = "Facebook")
 
 # Find list elements of interest:
 sapply(search.comp, function(x) names(x))[[1]]
