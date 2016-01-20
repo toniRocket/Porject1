@@ -6,19 +6,19 @@ Project1 is to forecast demands for the next 15 days using the last 21 days orde
 
 -----------------------
 ## Inputs
-### Orders for the last 21 days
+* Orders for the last 21 days
 
 A time serie representing the hourly order for the last 21 days
 
 
 
-### Marketing activities
+* Marketing activities
 
 A time serie representing the hourly order for the last 21 days
 
 -----------------------
 ## Outputs
-#### Demands
+* Demands
 Prediction of the demand for the forseeable days
 
 
