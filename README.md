@@ -13,5 +13,3 @@ A time serie representing the hourly order for the last 21 days
 
 ## Outputs
 * Demands: prediction of the demand for the forseeable days
-
-Antoine was here!
